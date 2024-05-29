@@ -1,0 +1,1 @@
+<div id="<?php echo $id; ?>"></div><?php /**PATH C:\Users\ulfad\ocalaravel10\vendor\arielmejiadev\larapex-charts\src/../stubs/resources/views/chart/container.blade.php ENDPATH**/ ?>
